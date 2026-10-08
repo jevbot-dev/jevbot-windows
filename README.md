@@ -44,6 +44,26 @@ Jevbot 将应用操作组织成可以持续对话的任务，适合聊天辅助�
 
 ## 联系与交流
 
-- [关注 @jevbot_dev](https://x.com/jevbot_dev)：产品更新与发布动态。
-- [访问 Jevbot 官网](https://jevbot.dev/)：微信联系和交流群入口。
-- [反馈 Windows 版问题](https://github.com/jevbot-dev/jevbot-windows/issues)：请附上系统版本、复现步骤和相关截图。
+关注更新，交流使用体验。
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <a href="https://x.com/jevbot_dev"><img src="https://raw.githubusercontent.com/jevbot-dev/jevbot-mac/release/docs/contact/x-logo-textured.png" width="180" height="180" alt="Jevbot X"></a>
+      <p><a href="https://x.com/jevbot_dev"><strong>@jevbot_dev ↗</strong></a></p>
+      <p><sub>关注产品更新</sub></p>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://raw.githubusercontent.com/jevbot-dev/jevbot-mac/release/docs/contact/jevbot-wechat-qrcode.png"><img src="https://raw.githubusercontent.com/jevbot-dev/jevbot-mac/release/docs/contact/jevbot-wechat-qrcode.png" width="180" height="180" alt="添加 Jevbot 微信二维码"></a>
+      <p><strong>添加 Jevbot 微信</strong></p>
+      <p><sub>扫码添加 · 点击放大</sub></p>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://raw.githubusercontent.com/jevbot-dev/jevbot-mac/release/docs/contact/jevbot-wechat-group-qrcode.png"><img src="https://raw.githubusercontent.com/jevbot-dev/jevbot-mac/release/docs/contact/jevbot-wechat-group-qrcode.png" width="180" height="180" alt="Jevbot 交流群二维码"></a>
+      <p><strong>加入 Jevbot 交流群</strong></p>
+      <p><sub>使用微信或企业微信扫码加入<br>2026 年 10 月 15 日前有效 · <a href="https://jevbot.dev/">查看最新二维码</a></sub></p>
+    </td>
+  </tr>
+</table>
+
+[反馈 Windows 版问题](https://github.com/jevbot-dev/jevbot-windows/issues)：请附上系统版本、复现步骤和相关截图。
